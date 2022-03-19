@@ -1,0 +1,30 @@
+Peraturan Permainan Simulasi Kehidupan :
+
+==                 ===      ==             ==     ==       ==
+==                 ===       ==           ==       =      =
+==                 ===        ==         ==         =    =
+==                 ===         ==       ==            ==
+==                 ===          ==     ==             ==
+==                 ===           ==   ==              ==
+==                 ===            == ==               == 
+=============      ===             ===                ==
+
+Langkah Menjalankan :
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Buka Dari File Landing.Html  ~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Didalam Permainan Ini Terdapat beberapa peraturan :
+
+1. Sebelum Mulai Bermain , Player harus mengisi nama mereka Terlebih dahulu.
+2. Didalam permainan ini terdapat beberapa Aspek yaitu
+ - Study Bar 
+ - Eat Bar 
+ - Sleep Bar 
+ - Play Bar
+3. Objective Dari permainan ini adalah Harus Berhasil sampai Lulus dan tidak boleh study bar sampai 0 atau Minus
+    Jika terjadi maka Player akan Drop out
+4. Jika Study Bar di tambah maka Semua Bar berkurang( Cape dan Lapar)
+5. Jika Eat Bar di tambah maka Bar Sleep akan berkurang ( Ngantuk kurang tidur )
+6. JIka Sleep Bar di tambah maka Bar Study akan berkurang ( Lupa Materi )
+7. Jika Play Bar di tambah maka Semua bar berkuang ( Lupa Waktu)
